@@ -23,7 +23,7 @@ A modern chat interface that supports multiple AI models through OpenRouter and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/xponder.git
+git clone https://github.com/Xpond/llm_chat_interface.git
 cd xponder
 ```
 
