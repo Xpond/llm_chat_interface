@@ -1,6 +1,7 @@
 # Xponder
 
 A modern chat interface that supports multiple AI models through OpenRouter and Ollama, with real-time streaming responses and chat history.
+![Screenshot 2025-02-17 121609](https://github.com/user-attachments/assets/5f9c97c2-d01b-4072-a361-31834646d4f5)
 
 ## Features
 
